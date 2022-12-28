@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.49650783-583d-11ed-9bae-309c23af27cd.jpg</filename>
+	<path>D:\Conda Projects\test\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveyou.49650783-583d-11ed-9bae-309c23af27cd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>102</ymin>
+			<xmax>458</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

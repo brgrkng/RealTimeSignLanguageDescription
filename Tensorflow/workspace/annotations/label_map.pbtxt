@@ -1,0 +1,24 @@
+item { 
+	name:'Goodbye'
+	id:1
+}
+item { 
+	name:'Hello'
+	id:2
+}
+item { 
+	name:'I Love You'
+	id:3
+}
+item { 
+	name:'No'
+	id:4
+}
+item { 
+	name:'Thank You'
+	id:5
+}
+item { 
+	name:'Yes'
+	id:6
+}

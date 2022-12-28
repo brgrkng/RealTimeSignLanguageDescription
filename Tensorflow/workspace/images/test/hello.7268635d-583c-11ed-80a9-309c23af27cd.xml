@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.7268635d-583c-11ed-80a9-309c23af27cd.jpg</filename>
+	<path>D:\Conda Projects\test\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.7268635d-583c-11ed-80a9-309c23af27cd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>113</ymin>
+			<xmax>136</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>
