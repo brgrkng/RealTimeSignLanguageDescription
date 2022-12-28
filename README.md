@@ -8,4 +8,17 @@ Here we use a number of different signs in ASL instead, where each label is perf
 
 'Paper.pdf' was what I submitted for my assignment for which i got an 85/100. 
 
-You can run '
+You can run the program through the IPYNB by running the block under the 'Deployment' section, unfortunately this probably wont work correctly for anyone else as the dataset is small and specific to the lighting in my room and my own skin tone :( .
+
+Dependencies (i might've missed a few): 
+            Python
+                glob
+                pandas
+                numpy
+                Pillow
+                tensorflow
+                open-cv
+                object_detection
+             Protoc
+             
+More dependencies if you want to re-train the model yourself, fun tutorial here: https://youtube.com/watch?v=dZh_ps8gKgs&si=EnSIkaIECMiOmarE!
